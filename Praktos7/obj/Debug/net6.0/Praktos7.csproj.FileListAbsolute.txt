@@ -1,0 +1,14 @@
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.AssemblyInfoInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.AssemblyInfo.cs
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.csproj.CoreCompileInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\bin\Debug\net6.0\Praktos7.exe
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\bin\Debug\net6.0\Praktos7.deps.json
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\bin\Debug\net6.0\Praktos7.runtimeconfig.json
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\bin\Debug\net6.0\Praktos7.dll
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\bin\Debug\net6.0\Praktos7.pdb
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.dll
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\refint\Praktos7.dll
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.pdb
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\Praktos7.genruntimeconfig.cache
+C:\Users\nfrol\Desktop\Prog.sln\Praktos7\Praktos7\obj\Debug\net6.0\ref\Praktos7.dll
